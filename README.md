@@ -1,50 +1,52 @@
 # Simon Cantin
 
-**Solutions Architect & Product Builder** | Cybersecurity | AI-Driven Development
+**Solutions Architect & Product Builder** | Canada
 
-I design and build complete software products — from architecture to deployment. I specialize in leveraging AI as a development accelerator, turning complex ideas into working systems.
+I turn ideas into complete, production-ready products. I design systems, define architecture, and leverage AI to build faster than traditional teams. My focus: cybersecurity tools, AI-powered platforms, and developer productivity.
 
 ---
 
-### What I Build
+### Products
 
-**FORGE** — 3D Architecture Navigator with AI *(Private - Commercial Product)*
-> Interactive 3D environment for designing software and network architectures. Features AI-assisted building, voice control, real-time collaboration, and 11+ AI provider integrations. Built with Godot 4 / C# / .NET 8.
->
-> 116 automated tests | 50+ modules | Voice STT/TTS | Template-based architecture generation
+**FORGE** — 3D Architecture Navigator *(Commercial Product)*
+> Design software and network architectures in an interactive 3D world. Talk to your project using voice commands. AI generates, explains, and adapts your architecture through conversation. 6 built-in templates, 11 AI providers, real-time collaboration.
 
 **NetGuardPro** — Cybersecurity Defense Platform
-> Full-stack security suite: real-time network monitoring, threat detection, automated blocking. Available on Windows, Android, and iOS.
+> Real-time network monitoring, automatic threat detection, and one-click blocking. Deployed across Windows, Android, and iOS.
 >
-> [NetGuardPro](https://github.com/sxc3030-eng/netguard-pro) | [Mobile (Android)](https://github.com/sxc3030-eng/NetGuardPro-Mobile) | [iOS](https://github.com/sxc3030-eng/NetGuardPro-iOS)
+> [Dashboard](https://github.com/sxc3030-eng/netguard-pro) | [Android](https://github.com/sxc3030-eng/NetGuardPro-Mobile) | [iOS](https://github.com/sxc3030-eng/NetGuardPro-iOS) | [Store](https://github.com/sxc3030-eng/NetGuardPro-Store)
 
-**Optimus** — Open Source Cybersecurity Suite for Linux
-> 14 integrated security tools + bootable ISO. Defense-focused alternative to Kali Linux.
+**Optimus** — Open Source Security Suite for Linux
+> 14 integrated defense tools in one bootable ISO. Built for blue teams and system administrators.
 >
 > [View Project](https://github.com/sxc3030-eng/Optimus)
 
-**GeniA** — AI Social Network *(Private - In Development)*
-> Decentralized AI platform with distributed compute nodes, AI coding assistant, and social features. Built with TypeScript, Rust, and distributed systems.
+**GeniA** — Decentralized AI Platform *(In Development)*
+> AI social network powered by distributed compute. Includes a coding assistant and community-driven model sharing. TypeScript, Rust, peer-to-peer architecture.
+
+**OmniPost** — Social Media Automation
+> Multi-platform content scheduling and publishing tool for marketing teams.
+>
+> [View Project](https://github.com/sxc3030-eng/omnipost)
 
 ---
 
-### Tech Stack
+### How I Work
 
-| Domain | Technologies |
-|--------|-------------|
-| **Architecture & 3D** | Godot 4, C#, .NET 8, LiteDB |
-| **Cybersecurity** | Network analysis, threat detection, VPN, DNS filtering |
-| **AI Integration** | Claude, OpenAI, Ollama, Whisper STT, Piper TTS, 11+ providers |
-| **Web & Mobile** | TypeScript, React, Kotlin (Android), Swift (iOS) |
-| **Systems** | Rust, distributed computing, CI/CD |
+I architect first, then build. Every project starts with a clear structure — modules, connections, responsibilities — before any code is written. I use AI as a force multiplier: designing systems that are testable, maintainable, and ready to scale. This approach delivers production-grade software at startup speed.
 
 ---
 
-### Approach
+### Domains
 
-I don't just write code — I architect complete products. My workflow combines deep systems understanding with AI-driven development to build at 10x speed without sacrificing quality. Every project ships with automated tests, professional UI, and production-ready architecture.
+**Cybersecurity** — Network defense, threat detection, VPN, DNS filtering, incident response
+
+**AI Integration** — Multi-provider orchestration, voice interfaces (STT/TTS), AI-assisted architecture generation
+
+**Product Development** — Full lifecycle from concept to distribution across desktop, mobile, and web
 
 ---
 
-**Location:** Canada
-**Open to:** Product architecture roles, technical leadership, cybersecurity consulting, AI integration projects
+**Open to:** Product architecture, technical leadership, cybersecurity consulting, AI integration projects
+
+[Reach out](https://github.com/sxc3030-eng)
