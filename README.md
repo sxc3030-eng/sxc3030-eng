@@ -2,7 +2,7 @@
 
 **Solutions Architect & Product Builder** | Canada
 
-I turn ideas into complete, production-ready products. I design systems, define architecture, and leverage AI to build faster than traditional teams. My focus: cybersecurity tools, AI-powered platforms, and developer productivity.
+I turn ideas into complete, production-ready products. I design systems, define architecture, and pair with **Claude (Opus 4.6)** to build, audit, and ship at startup velocity. Focus areas: cybersecurity tools, AI-powered platforms, and developer productivity.
 
 ---
 
@@ -33,7 +33,9 @@ I turn ideas into complete, production-ready products. I design systems, define 
 
 ### How I Work
 
-I architect first, then build. Every project starts with a clear structure — modules, connections, responsibilities — before any code is written. I use AI as a force multiplier: designing systems that are testable, maintainable, and ready to scale. This approach delivers production-grade software at startup speed.
+Architecture-first, AI-paired. I design the system — modules, connections, responsibilities, security boundaries — then **Claude (Opus 4.6)** implements modules in parallel under test-driven development. Every change is cross-audited: code review, security scan, dependency vulnerabilities, test coverage. Iteration cycles measured in hours, not weeks.
+
+5 active products, 17 repositories, ~3,400 automated tests across the stack — built and shipped between March and April 2026.
 
 ---
 
